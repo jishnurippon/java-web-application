@@ -1,4 +1,4 @@
-# java-web-application
+# Java Web Application
 ## Installation
 
 Requirements
