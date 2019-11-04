@@ -1,0 +1,16 @@
+
+body{
+   background-image: -webkit-linear-gradient(150deg, #34ADFF 35%, #4CBFFF 35%);
+}
+.card{
+    width: 80%;
+    height: auto;
+    margin-left: 10%;
+    margin-top: 5em;
+    padding: 60px;
+    border-radius: 15px; 
+}
+.card h1{
+    padding-bottom:20px;
+    color: #ff0000;
+}
